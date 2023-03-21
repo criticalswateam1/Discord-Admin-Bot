@@ -1,0 +1,48 @@
+{
+   "token": "MTA4NDM3NTgzMDQyNTI0Mzc4MA.Gxp4zM.nhn_eVPoffXRLIzqKO_raqodQI3Bvg-9TmvjMI",  
+   "prefix": "??",
+   "ownerIDS": [
+      "832663333529845772"
+   ],
+   "fnbr": "GET from: https://fnbr.co",
+   "fortnitetracker": "GET from: https://fortnitetracker.com",
+   "memer_api": "112x6yLrOn1",
+   "status": {
+      "text": "2023 Developer Tech",
+      "text2": "By: https://developertech.co.za",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "n1.lavalink.milrato.com",
+            "port": 10250,
+            "password": "discord.gg/milrato"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "45e5a5c9eb14418a8c4aa39d1ca61edd",
+      "clientID": "bcc3541dff49441388bfe5e7ab0609c1"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": "DISABLED"
+      }
+   }
+}
